@@ -7,4 +7,4 @@ FreeCodeCamp project from the section of [Responsive Web Design](https://www.fre
 3. CSS Grid
 
 ## Website Link:
-https://rkkaveri.github.io/tribute-page/
+ https://rkkaveri.github.io/apj-abdul-kalam-tribute-page/
