@@ -130,11 +130,6 @@ blockquote{
 }
 
 @media (max-width: 900px){
-    body::after{
-        top: 27rem;
-        height: inherit;
-        bottom: 0;
-    }
     
     #main{
         grid-template-columns: 50px 10fr 50px;
